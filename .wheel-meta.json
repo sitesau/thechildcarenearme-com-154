@@ -1,0 +1,22 @@
+{
+  "wheel_id": 689,
+  "structure": "umbrella",
+  "slug": "thechildcarenearme-com-154",
+  "project": "childcare-centres-brisbane-cost-guide-36536ff6dab2608310431142c",
+  "parent_t1_ref": "thechildcarenearme.com-006",
+  "node_role": "buffer",
+  "money_target": "thechildcarenearme.com.au",
+  "primary_kw": "childcare centres brisbane cost guide",
+  "intended_url": "https://sitesau.github.io/thechildcarenearme-com-154/",
+  "tier": "T2",
+  "writeback_nonce": "88390bf0fb12e438",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/thechildcarenearme.com-006/",
+      "anchor": "childcare centres brisbane explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
